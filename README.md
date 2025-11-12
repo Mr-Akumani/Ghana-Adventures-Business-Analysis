@@ -11,9 +11,9 @@ To analyze seasonal booking trends, tour package performance, and customer loyal
 
 ## Data Sources & Tools
 - **Data Sources:** Proprietary booking, customer, and revenue data from Ghana Adventures
-- **Data Cleaning & Processing:** Microsoft Excel
-- **Data Analysis & Visualization:** Microsoft Excel, PowerPoint
-- **Presentation:** Microsoft PowerPoint
+- **Data Cleaning & Processing:** Microsoft Excel, Power Bi
+- **Data Analysis & Visualization:** Power Bi, Microsoft Excel, PowerPoint
+- **Presentation:** Microsoft PowerPoint, Power Bi
 
 ## Methodology
 1.  **Data Processing:** As a team, we cleaned and prepared the raw booking data for analysis, ensuring consistency in dates, customer IDs, and revenue figures
