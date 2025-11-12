@@ -54,6 +54,3 @@ This repository contains the following:
 - `Visualizations/`: Key charts and graphs used in the analysis (e.g., booking trends, tour performance)
 - `Data/`: Sample or anonymized dataset
 - `README.md`: This project overview
-
-## View the Presentation
-For a detailed view of the analysis and insights, please download the PowerPoint presentation: **[DATA-DRIVEN BUSINESS INSIGHTS FOR GHANA ADVENTURES.pptx](link-to-your-file-on-github-here)**
